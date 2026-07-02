@@ -1,7 +1,7 @@
-# Trading Bot — Binance Futures Testnet (USDT-M)
+# Trading Bot — Binance Futures Demo Trading (USDT-M)
 
 A small, structured CLI application that places MARKET and LIMIT orders on
-Binance Futures Testnet, with input validation, logging, and error handling.
+Binance Futures Demo Trading, with input validation, logging, and error handling.
 
 ## Project Structure
 
